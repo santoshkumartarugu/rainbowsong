@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>s.kumar</groupId>
-    <artifactId>lenova-class</artifactId>
+    <groupId>hello</groupId>
+    <artifactId>devops1.0.jar</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>lenova-class</name>
+    <name>devops1.0.jar</name>
     <description>Blank project for GraalVM + Spring MVC</description>
     <parent>
         <groupId>org.springframework.boot</groupId>
